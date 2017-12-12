@@ -1,0 +1,36 @@
+
+header{
+  background-color: #F35C66;
+  box-sizing: border-box;
+  overflow: hidden;
+  padding: 1em;
+}
+header h2{
+  display: inline-block;
+  margin: 0;
+  color:#FFF;
+}
+header button{
+  background-color: #00AC9C;
+  border: none;
+  padding: none;
+  width: 5em;
+  height: 2em;
+  box-shadow: 1px 1px 2px #303030;
+  vertical-align: text-bottom;
+  margin-left: 1em;
+  color:#FFF;
+}
+.btn-section{
+  float: right;
+}
+.modal-content{
+  padding: 2em;
+}
+.modal-add h4{
+  font-size: 2em;
+}
+.modal-add input{
+  display: block;
+  margin-bottom: 1em;
+}
